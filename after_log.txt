@@ -1,0 +1,7 @@
+2026-11-11T18:29:00.4071463+08:00 [T2] [Trace] [Ink_Canvas.App..ctor] App | 构造函数入口 pid=7356 args=[C:\bot\worktrees\community\issue-37\Ink Canvas\bin\Debug\x64\net10.0-windows10.0.19041.0\InkCanvasForClass.dll]
+2026-11-11T18:29:03.7685546+08:00 [T2] [Trace] [Ink_Canvas.Windows.SettingsViews.Helpers.WindowSettingsHelper.StartTopmostMaintenance] 启动置顶维护定时器
+2026-11-11T18:29:04.1214680+08:00 [T2] [Error] [Ink_Canvas.Helpers.FileAssociationManager.RegisterFileAssociation] 注册文件关联时访问被拒绝: Access to the registry key 'HKEY_CLASSES_ROOT\InkCanvasStrokesFile' is denied.
+2026-11-11T18:29:04.3074054+08:00 [T2] [Trace] [Ink_Canvas.Windows.SettingsViews.Helpers.WindowSettingsHelper.StartTopmostMaintenance] 启动置顶维护定时器
+2026-11-11T18:29:04.3132516+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.LoadInkFadeSettings] 墨迹渐隐设置已加载
+2026-11-11T18:29:04.3155292+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.LoadBrushAutoRestoreSettings] 画笔自动恢复设置已加载
+2026-11-11T18:29:04.3212885+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.AddTouchSupportToSliders] 已为所有滑块控件添加触摸支持

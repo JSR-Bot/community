@@ -1,0 +1,12 @@
+2026-11-11T17:32:25.6130293+08:00 [T2] [Trace] [Ink_Canvas.Windows.SettingsViews.Helpers.WindowSettingsHelper.StartTopmostMaintenance] 启动置顶维护定时器
+2026-11-11T17:32:25.8571575+08:00 [T2] [Error] [Ink_Canvas.Helpers.FileAssociationManager.RegisterFileAssociation] 注册文件关联时访问被拒绝: Access to the registry key 'HKEY_CLASSES_ROOT\InkCanvasStrokesFile' is denied.
+2026-11-11T17:32:27.1051992+08:00 [T2] [Trace] [Ink_Canvas.Windows.SettingsViews.Helpers.WindowSettingsHelper.StartTopmostMaintenance] 启动置顶维护定时器
+2026-11-11T17:32:27.1110045+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.LoadInkFadeSettings] 墨迹渐隐设置已加载
+2026-11-11T17:32:27.1135670+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.LoadBrushAutoRestoreSettings] 画笔自动恢复设置已加载
+2026-11-11T17:32:27.1289969+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.AddTouchSupportToSliders] 已为所有滑块控件添加触摸支持
+2026-11-11T17:32:51.6280286+08:00 [T2] [Error] [Ink_Canvas.App.WriteCrashLog] UI线程未处理异常: System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at System.Reflection.MethodBaseInvoker.ThrowTargetParameterCountException()
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
