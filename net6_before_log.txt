@@ -1,0 +1,78 @@
+2026-11-12T16:52:46.9414688+08:00 [T2] [Trace] [Ink_Canvas.App..ctor] App | 构造函数入口 pid=6356 args=[C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\InkCanvasForClass.dll]
+2026-11-12T16:52:46.9785447+08:00 [T2] [Info] [Ink_Canvas.App.InitializeCrashListeners] 已初始化崩溃监听器
+2026-11-12T16:52:49.5034429+08:00 [T2] [Info] [<startup>] App | 启动模式: Default
+2026-11-12T16:52:49.6156853+08:00 [T2] [Info] [<startup>] Ink Canvas Starting (Version: 1.8.0.14 (3555dd4))
+2026-11-12T16:52:55.9139194+08:00 [T2] [Info] [<startup>] MW_Toolbar: RebuildToolbar 开始
+2026-11-12T16:52:55.9905715+08:00 [T2] [Info] [<startup>] MW_Toolbar: RebuildToolbar 完成
+2026-11-12T16:52:56.4076183+08:00 [T2] [Event] [<startup>] Ink Canvas Loaded
+2026-11-12T16:52:56.6395638+08:00 [T2] [Warning] [<startup>] BoardToolbarRegistry: 实例化 Ink_Canvas.Controls.Toolbar.BoardToolbar.PluginBoardToolbarItemWrapper 失败: Cannot dynamically create an instance of type 'Ink_Canvas.Controls.Toolbar.BoardToolbar.PluginBoardToolbarItemWrapper'. Reason: No parameterless constructor defined.
+2026-11-12T16:52:56.7639698+08:00 [T2] [Info] [Ink_Canvas.App+<>c__DisplayClass93_0+<<App_Startup>b__3>d.MoveNext] 主窗口加载完成
+2026-11-12T16:52:56.7669278+08:00 [T2] [Info] [Ink_Canvas.App+<>c__DisplayClass93_0+<<App_Startup>b__3>d.MoveNext] 启动时长: 7.49秒
+2026-11-12T16:52:57.2626613+08:00 [T2] [Trace] [Ink_Canvas.Windows.SettingsViews.Helpers.WindowSettingsHelper.StartTopmostMaintenance] 启动置顶维护定时器
+2026-11-12T16:52:57.5549758+08:00 [T2] [Event] [Ink_Canvas.MainWindow.InitializeFloatingWindowInterceptor] 悬浮窗拦截管理器初始化完成
+2026-11-12T16:52:57.6412992+08:00 [T2] [Event] [Ink_Canvas.MainWindow.InitializeGlobalHotkeyManager] 全局快捷键管理器已初始化，启动时默认为鼠标模式并禁用快捷键
+2026-11-12T16:52:57.7314701+08:00 [T2] [Event] [Ink_Canvas.MainWindow.ClosePowerPointApplication] PowerPoint应用程序已关闭
+2026-11-12T16:52:57.7349129+08:00 [T2] [Event] [Ink_Canvas.MainWindow.StopPowerPointProcessMonitoring] PowerPoint应用程序守护已停止
+2026-11-12T16:52:57.7385375+08:00 [T2] [Event] [Ink_Canvas.MainWindow.ClosePowerPointApplication] PowerPoint应用程序已关闭
+2026-11-12T16:52:57.7530981+08:00 [T2] [Event] [Ink_Canvas.MainWindow.InitializePPTManagers] PPT管理器初始化完成
+2026-11-12T16:52:57.7595779+08:00 [T2] [Trace] [Ink_Canvas.Helpers.PPTManager.StartMonitoring] PPT监控已启动
+2026-11-12T16:52:57.7643171+08:00 [T2] [Event] [Ink_Canvas.MainWindow.StartPPTMonitoring] PPT监控已启动
+2026-11-12T16:52:57.7697818+08:00 [T2] [Event] [Ink_Canvas.MainWindow+<RunDeferredStartupPhaseBAsync>d__226.MoveNext] 窗口概览模型已初始化
+2026-11-12T16:52:57.7750501+08:00 [T2] [Info] [Ink_Canvas.Helpers.IACoreDllExtractor+<ExtractIACoreDllsAsync>d__1.MoveNext] 开始检查并释放IACore相关DLL文件
+2026-11-12T16:52:57.7776270+08:00 [T2] [Info] [Ink_Canvas.Helpers.IACoreDllExtractor+<ExtractIACoreDllsAsync>d__1.MoveNext] IACore.dll 已存在且有效，跳过释放
+2026-11-12T16:52:57.7797437+08:00 [T2] [Info] [Ink_Canvas.Helpers.IACoreDllExtractor+<ExtractIACoreDllsAsync>d__1.MoveNext] IALoader.dll 已存在且有效，跳过释放
+2026-11-12T16:52:57.7818040+08:00 [T2] [Info] [Ink_Canvas.Helpers.IACoreDllExtractor+<ExtractIACoreDllsAsync>d__1.MoveNext] IAWinFX.dll 已存在且有效，跳过释放
+2026-11-12T16:52:57.7833887+08:00 [T2] [Info] [Ink_Canvas.Helpers.IACoreDllExtractor+<ExtractIACoreDllsAsync>d__1.MoveNext] IACore DLL释放检查完成
+2026-11-12T16:52:57.7854172+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] 开始注册.icstk文件关联
+2026-11-12T16:52:57.7901494+08:00 [T2] [Event] [Ink_Canvas.Helpers.FileAssociationManager.RegisterFileAssociation] 成功注册.icstk文件关联
+2026-11-12T16:52:57.7928727+08:00 [T2] [Event] [Ink_Canvas.Helpers.FileAssociationManager.ShowFileAssociationStatus] .icstk文件关联状态: 已注册
+2026-11-12T16:52:57.7944611+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] 启动IPC监听器
+2026-11-12T16:52:57.7967341+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] 初始化上传帮助类
+2026-11-12T16:52:57.8013815+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] 开始加载插件
+2026-11-12T16:52:59.0152178+08:00 [T2] [Info] [Ink_Canvas.MainWindow.RebuildToolbar] MW_Toolbar: RebuildToolbar 开始
+2026-11-12T16:52:59.0630728+08:00 [T2] [Info] [Ink_Canvas.MainWindow.RebuildToolbar] MW_Toolbar: RebuildToolbar 完成
+2026-11-12T16:52:59.0694821+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] 插件 IPC 总线已启动
+2026-11-12T16:52:59.0717833+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] 插件加载完成，共加载 0 个插件
+2026-11-12T16:52:59.1613025+08:00 [T2] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.GetOrCreateDeviceId] DeviceIdentifier | 从主文件读取设备ID且硬件信息一致: 18FD3FF5E99466063E1ACACEU
+2026-11-12T16:52:59.1680705+08:00 [T2] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.LoadUsageStatsFromEncryptedFile] DeviceIdentifier | 从加密文件成功加载使用统计: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\usage_stats.enc
+2026-11-12T16:52:59.1733621+08:00 [T2] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.CalculateUsageFrequency] DeviceIdentifier | 使用频率计算 - 评分: 55, 频率: Medium, 优先级: Medium, 本周启动: 3次, 本周时长: 0秒
+2026-11-12T16:52:59.1866155+08:00 [T2] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.SaveUsageStatsToFile] DeviceIdentifier | 加密使用统计已保存到: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\usage_stats.enc
+2026-11-12T16:52:59.1907102+08:00 [T2] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.SaveUsageStatsToFile] DeviceIdentifier | 加密使用统计已保存到: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\Saves\usage_stats_backup.enc
+2026-11-12T16:52:59.1927745+08:00 [T2] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.RecordAppLaunch] DeviceIdentifier | 记录应用启动 - 设备ID: 18FD3FF5E99466063E1ACACEU, 总启动: 3次, 本周启动: 3次
+2026-11-12T16:52:59.1965333+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] App | 系统版本: Windows11 10.0.26200
+2026-11-12T16:52:59.1997976+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] App | 设备ID: 18FD3FF5E99466063E1ACACEU
+2026-11-12T16:52:59.2017748+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] App | 使用频率: Medium
+2026-11-12T16:52:59.2038991+08:00 [T2] [Info] [Ink_Canvas.App+<RunDeferredStartupTasksAsync>d__95.MoveNext] App | 更新优先级: Medium
+2026-11-12T16:52:59.2643321+08:00 [T2] [Trace] [Ink_Canvas.Windows.SettingsViews.Helpers.WindowSettingsHelper.StartTopmostMaintenance] 启动置顶维护定时器
+2026-11-12T16:52:59.2701144+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.LoadInkFadeSettings] 墨迹渐隐设置已加载
+2026-11-12T16:52:59.2739063+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.LoadBrushAutoRestoreSettings] 画笔自动恢复设置已加载
+2026-11-12T16:52:59.2771330+08:00 [T2] [Event] [Ink_Canvas.MainWindow.InitializeInkFadeManager] 墨迹渐隐管理器已初始化
+2026-11-12T16:52:59.2816864+08:00 [T2] [Trace] [Ink_Canvas.MainWindow.AddTouchSupportToSliders] 已为所有滑块控件添加触摸支持
+2026-11-12T16:53:05.7766469+08:00 [T2] [Info] [Ink_Canvas.MainWindow.<RunDeferredStartupPhaseBAsync>b__226_5] AutoUpdate | Running deferred auto-update check at UI idle
+2026-11-12T16:53:05.7850105+08:00 [T12] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.LoadUsageStatsFromEncryptedFile] DeviceIdentifier | 从加密文件成功加载使用统计: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\usage_stats.enc
+2026-11-12T16:53:05.7963297+08:00 [T12] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.SaveUsageStatsToFile] DeviceIdentifier | 加密使用统计已保存到: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\usage_stats.enc
+2026-11-12T16:53:05.8001806+08:00 [T12] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.SaveUsageStatsToFile] DeviceIdentifier | 加密使用统计已保存到: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\Saves\usage_stats_backup.enc
+2026-11-12T16:53:05.8020796+08:00 [T12] [Info] [Ink_Canvas.Helpers.AutoUpdateHelper+<CheckForUpdates>d__49.MoveNext] AutoUpdate | 本地版本: 1.8.0.14
+2026-11-12T16:53:05.8041822+08:00 [T12] [Info] [Ink_Canvas.Helpers.AutoUpdateHelper+<CheckForUpdates>d__49.MoveNext] AutoUpdate | 设备ID: 18FD3FF5E99466063E1ACACEU
+2026-11-12T16:53:05.8062952+08:00 [T12] [Info] [Ink_Canvas.Helpers.AutoUpdateHelper+<CheckForUpdates>d__49.MoveNext] AutoUpdate | 更新优先级: Medium
+2026-11-12T16:53:05.8286288+08:00 [T12] [Info] [Ink_Canvas.Helpers.AutoUpdateHelper+<CheckSmartUpdate>d__48.MoveNext] AutoUpdate | 使用智慧更新 API 检查: https://dev-api.dy.ci/api/distribute/check/ICC-CE/?token=492e41ea8eb61fc9a1d336b3852a4478&version=1.8.0.14&os=win10&arch=x64&channel=stable&user_id=18FD3FF5E99466063E1ACACEU
+2026-11-12T16:53:07.1399403+08:00 [T8] [Info] [Ink_Canvas.Helpers.AutoUpdateHelper+<GetGithubReleaseByVersion>d__38.MoveNext] AutoUpdate | 使用GitHub API调用
+2026-11-12T16:53:07.4674134+08:00 [T8] [Warning] [Ink_Canvas.Helpers.AutoUpdateHelper+<GetGithubReleaseByVersion>d__38.MoveNext] AutoUpdate | GitHub Releases API 获取版本 1.8.0.14 失败: Response status code does not indicate success: 403 (rate limit exceeded).
+2026-11-12T16:53:07.4777995+08:00 [T8] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.LoadUsageStatsFromEncryptedFile] DeviceIdentifier | 从加密文件成功加载使用统计: C:\bot\worktrees\community\issue-37-net6\Ink Canvas\bin\Debug\x64\net6.0-windows10.0.19041.0\usage_stats.enc
+2026-11-12T16:53:07.4828343+08:00 [T8] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.ShouldPushUpdate] DeviceIdentifier | 无法获取版本发布时间，使用版本号差异判断 - 本地版本: 1.8.0.14, 远程版本: 1.8.0.15, 代数差异: 1
+2026-11-12T16:53:07.4868164+08:00 [T8] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.ShouldPushUpdate] DeviceIdentifier | 版本号代数差异(1)>=1，进入分级策略判断
+2026-11-12T16:53:07.4916110+08:00 [T8] [Info] [Ink_Canvas.Helpers.DeviceIdentifier.ShouldPushUpdate] DeviceIdentifier | 自动更新推送判断 - 版本: 1.8.0.15, 类型: Minor, 优先级: Medium, 频率: Medium, 版本间隔: 0.0天, 最后使用: 0.0天前, 结果: False
+2026-11-12T16:53:07.4957347+08:00 [T8] [Info] [Ink_Canvas.Helpers.AutoUpdateHelper+<CheckSmartUpdate>d__48.MoveNext] AutoUpdate | 根据用户优先级(Medium)，暂不推送智慧更新 1.8.0.15
+2026-11-12T16:53:07.5031692+08:00 [T8] [Info] [Ink_Canvas.MainWindow+<AutoUpdate>d__200.MoveNext] AutoUpdate | Current version is already the latest, no retry needed
+2026-11-12T16:53:17.7596948+08:00 [T2] [Info] [Ink_Canvas.Helpers.LogHelper.NewLog] System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at System.Reflection.MethodBaseInvoker.ThrowTargetParameterCountException()
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2026-11-12T16:53:17.7674929+08:00 [T2] [Error] [Ink_Canvas.App.WriteCrashLog] UI线程未处理异常: System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at System.Reflection.MethodBaseInvoker.ThrowTargetParameterCountException()
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
